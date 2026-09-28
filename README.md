@@ -1,11 +1,19 @@
-<div align="center">
+# QuiltClient Website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A responsive, zero-cost static website for QuiltClient.
 
-  <h1>Built with AI Studio</h2>
+## Files
+- `index.html` — page structure and content
+- `style.css` — responsive dark/purple UI
+- `script.js` — mobile menu, FAQ accordion, reveal animations and demo FPS
+- `assets/` — place your logo/screenshots here
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Put it online for free
+1. Create a GitHub repository.
+2. Upload all files from this folder.
+3. Open repository Settings → Pages.
+4. Select `Deploy from a branch`, branch `main`, folder `/root`.
+5. Save and wait for the GitHub Pages URL.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Before publishing
+Replace the demo download button in `index.html` with the real QuiltClient release URL/file.
